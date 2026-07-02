@@ -269,12 +269,3 @@ Through this project, I learned how to:
 **Prince**
 
 Aspiring Data Analyst | Excel | SQL | Python | Power BI | Machine Learning
-
-- 💼 LinkedIn: *Add your LinkedIn Profile*
-- 💻 GitHub: *Add your GitHub Profile*
-
----
-
-## ⭐ Support
-
-If you found this project useful, please consider **starring ⭐ the repository** to support my work.
